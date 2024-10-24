@@ -8,7 +8,7 @@
 <!-- My CV/resume -->
 
 <div align="left">
-Hi! My name is Inho Jeong, and I am currently pursuing a master's degree in the Department of Artificial Intelligence at Dong-Eui University.  
+Hi! My name is Inho Jeong, and I am currently pursuing a master's degree in the Department of Artificial Intelligence at Dong-Eui University.    
 I am especially interested in developing computer vision models. 
 </div>
 <br><br>

@@ -57,7 +57,7 @@ Master's Program in Artificial Intelligence ```(03/2024 ~)``` (Dongui University
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chigo55&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
-<img src="https://github.com/Chigo55/Chigo55/blob/output/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C?palette=github-dark" width="100%">
+<img src="https://github.com/Chigo55/Chigo55/blob/output/github-snake-dark.svg" width="100%">
 
 <br><br>
 <!-- Hit counter -->

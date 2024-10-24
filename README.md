@@ -39,6 +39,9 @@ Master's Program in Artificial Intelligence ```(03/2024 ~)``` (Dongui University
 <span>
     <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
 </span>
+<span>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+</span>
 
 ## Publications 
 **J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  

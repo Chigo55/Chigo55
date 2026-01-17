@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chigo55&label=Profile views&color=0e75b6&style=flat" alt="Chigo55" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chigo55" alt="Chigo55" /></a> </p>
-
 - 📫 How to reach me **jungih456@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://www.notion.so/JEONG-INHO-bf1d9303f8cc4d3d81b62594a83d01fd?source=copy_link](https://www.notion.so/JEONG-INHO-bf1d9303f8cc4d3d81b62594a83d01fd?source=copy_link)**
@@ -21,6 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chigo55&show_icons=true&locale=en&layout=compact" alt="Chigo55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chigo55&show_icons=true&locale=en" alt="Chigo55" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chigo55&" alt="Chigo55" /></p>
 

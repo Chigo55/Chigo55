@@ -29,4 +29,7 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chigo55&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
+    <div style="text-align: left;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chigo55&show_icons=true&theme=transparent&title_color=000000&text_color=000000" alt="chigo55's Github Stat" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chigo55&layout=compact&theme=transparent&title_color=000000&text_color=000000" alt="Most used language" height="150" />
+</div>

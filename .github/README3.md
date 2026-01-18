@@ -1,80 +1,95 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-<br><br>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+In+Ho+Jeong;Research+on+deep+learning" alt="Typing SVG" /></a>
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
 
 <div align="left">
-Hi! My name is <b>Inho Jeong</b>, and I am currently pursuing a master's degree in the Department of Artificial Intelligence at Dong-Eui University. 
-I am especially interested in developing computer vision models and enhancing image quality through deep learning.
+  <a href="https://discord.com/channels/chigo0395" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="www.instaagram.com/jungih456" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="jungih456@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I am an AI researcher dedicated to continuous growth and expertise in the field of Artificial Intelligence.<br>Currently pursuing a Master's degree at Dong-eui University, I am preparing to bridge the gap between academic theory and industry practice through an upcoming Ph.D. program and professional career.<br><br>Core Expertise & Research Interests<br>Computer Vision & Deep Learning: Focused on research in Low-light Image Enhancement (LLIE), utilizing architectures like U-Net and Attention Mechanisms to develop advanced visual solutions.<br><br>Performance Optimization: Committed to building high-performance systems through a deep understanding of algorithms and fundamental data structures (Linked Lists, Stacks, Queues, etc.).<br><br>Efficiency-First Approach: I value clean, concise code and logical communication, prioritizing essential functionality and clear problem-solving over unnecessary complexity.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-<br>
+###
 
-# 💫 About Me:
-- 🔭 **I’m currently working on**: Low-light Image Enhancement (U-Net, Attention Mechanisms).
-- 👯 **I’m looking to collaborate on**: Open-source projects related to Computer Vision and Image Restoration.
-- 🤝 **I’m looking for help with**: Refining my technical resume and optimizing algorithm efficiency.
-- 🌱 **I’m currently learning**: Deepening my knowledge in Data Structures & Algorithms (Stacks, Queues, Sorting).
-- 💬 **Ask me about**: Image Processing, YCrCb color space, and Deep Learning architectures.
-- ⚡ **Fun fact**: I am a minimalist coder who writes clean, self-explanatory code without comments or docstrings.
+<h3 align="left">🔥   My Stats :</h3>
 
-<br>
+###
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jungih456@gmai.com) 
-
-<br>
-
-<details>
-<summary><b>🎓 Education & Objective (Click to expand)</b></summary>
-<div align="left">  
-
-### OBJECTIVE
-AI Research / Computer Vision
-
-### EDUCATION
-- **Bachelor of Robotics Automation Engineering** (03/2018 - 02/2024) - Dong-Eui University, Busan
-- **Master's Program in Artificial Intelligence** (03/2024 - Present) - Dong-Eui University, Busan
-</div>
-</details>
-
-<br>
-
-# 💻 Tech Stack:
-### Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### AI & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### Tools & Engineering
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-<br>
-
-# 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chigo55&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chigo55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%">
-    <br>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=chigo55&theme=dark&hide_border=false" width="97%">
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chigo55&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="97%"/>
+  <img src="https://streak-stats.demolab.com?user=chigo55&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chigo55&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
-<img src="https://github.com/Chigo55/Chigo55/blob/output/github-snake-dark.svg" width="100%">
+<br clear="both">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chigo55/chigo55/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chigo55/chigo55/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chigo55/chigo55/output/pacman-contribution-graph.svg">
+</picture>
 
----
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=chigo55&icon=0&color=0)](https://visitcount.itsvg.in)
-<br><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
 </div>
+
+###
